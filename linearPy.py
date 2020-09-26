@@ -1,4 +1,4 @@
 import numpy as np
 from  gaussianElimination import *
-# import diagonalization as di
+from diagonalization import *
 from span import Span
